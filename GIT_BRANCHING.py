@@ -10,3 +10,6 @@ Branching lets you work on different parts of a project
 safely without breaking the main project.
 '''
 
+#pull request
+#it is a request to the owner or supervisor of the github
+#to check your code or project and merge in master or main.
